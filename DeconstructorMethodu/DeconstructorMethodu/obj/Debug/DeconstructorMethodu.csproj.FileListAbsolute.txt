@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\obj\Debug\DeconstructorMethodu.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\obj\Debug\DeconstructorMethodu.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\bin\Debug\DeconstructorMethodu.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\bin\Debug\DeconstructorMethodu.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\bin\Debug\DeconstructorMethodu.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\obj\Debug\DeconstructorMethodu.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\DeconstructorMethodu\DeconstructorMethodu\obj\Debug\DeconstructorMethodu.pdb
