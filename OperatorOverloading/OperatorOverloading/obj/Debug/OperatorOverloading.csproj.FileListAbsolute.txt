@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
