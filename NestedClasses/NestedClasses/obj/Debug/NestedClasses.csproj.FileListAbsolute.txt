@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\bin\Debug\NestedClasses.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\obj\Debug\NestedClasses.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\NestedClasses\NestedClasses\obj\Debug\NestedClasses.pdb
