@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\bin\Debug\AbstractClassesandMethods.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\bin\Debug\AbstractClassesandMethods.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\bin\Debug\AbstractClassesandMethods.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\obj\Debug\AbstractClassesandMethods.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\obj\Debug\AbstractClassesandMethods.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\obj\Debug\AbstractClassesandMethods.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbstractClassesandMethods\AbstractClassesandMethods\obj\Debug\AbstractClassesandMethods.pdb
