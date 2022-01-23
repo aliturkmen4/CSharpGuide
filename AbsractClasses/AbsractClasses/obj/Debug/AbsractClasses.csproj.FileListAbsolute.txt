@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\bin\Debug\AbsractClasses.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\bin\Debug\AbsractClasses.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\bin\Debug\AbsractClasses.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\obj\Debug\AbsractClasses.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\obj\Debug\AbsractClasses.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\obj\Debug\AbsractClasses.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\AbsractClasses\AbsractClasses\obj\Debug\AbsractClasses.pdb
