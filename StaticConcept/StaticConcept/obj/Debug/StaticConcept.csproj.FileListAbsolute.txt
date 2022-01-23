@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\bin\Debug\StaticConcept.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\bin\Debug\StaticConcept.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\bin\Debug\StaticConcept.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\obj\Debug\StaticConcept.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\obj\Debug\StaticConcept.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\obj\Debug\StaticConcept.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\StaticConcept\StaticConcept\obj\Debug\StaticConcept.pdb
