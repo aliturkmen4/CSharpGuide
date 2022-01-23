@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\bin\Debug\Constructor(Yapici)Method.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\bin\Debug\Constructor(Yapici)Method.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\bin\Debug\Constructor(Yapici)Method.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\obj\Debug\Constructor(Yapici)Method.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\obj\Debug\Constructor(Yapici)Method.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\obj\Debug\Constructor(Yapici)Method.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Constructor(Yapici)Method\Constructor(Yapici)Method\obj\Debug\Constructor(Yapici)Method.pdb
