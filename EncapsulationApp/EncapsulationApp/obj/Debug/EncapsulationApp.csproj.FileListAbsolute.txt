@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\bin\Debug\EncapsulationApp.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\bin\Debug\EncapsulationApp.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\bin\Debug\EncapsulationApp.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\obj\Debug\EncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\obj\Debug\EncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\obj\Debug\EncapsulationApp.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\EncapsulationApp\EncapsulationApp\obj\Debug\EncapsulationApp.pdb
