@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\bin\Debug\Field-Property-Auto-Implemented Property.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\bin\Debug\Field-Property-Auto-Implemented Property.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\bin\Debug\Field-Property-Auto-Implemented Property.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\obj\Debug\Field-Property-Auto-Implemented Property.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\obj\Debug\Field-Property-Auto-Implemented Property.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\obj\Debug\Field-Property-Auto-Implemented Property.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Field-Property-Auto-Implemented Property\Field-Property-Auto-Implemented Property\obj\Debug\Field-Property-Auto-Implemented Property.pdb
