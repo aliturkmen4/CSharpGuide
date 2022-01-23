@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\bin\Debug\This-Readonly-Const.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\bin\Debug\This-Readonly-Const.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\bin\Debug\This-Readonly-Const.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\obj\Debug\This-Readonly-Const.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\obj\Debug\This-Readonly-Const.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\obj\Debug\This-Readonly-Const.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\This-Readonly-Const\This-Readonly-Const\obj\Debug\This-Readonly-Const.pdb
