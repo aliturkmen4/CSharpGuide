@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\bin\Debug\Polymorphism-Virtual-Override.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\bin\Debug\Polymorphism-Virtual-Override.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\bin\Debug\Polymorphism-Virtual-Override.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\obj\Debug\Polymorphism-Virtual-Override.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\obj\Debug\Polymorphism-Virtual-Override.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\obj\Debug\Polymorphism-Virtual-Override.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\Polymorphism-Virtual-Override\Polymorphism-Virtual-Override\obj\Debug\Polymorphism-Virtual-Override.pdb
